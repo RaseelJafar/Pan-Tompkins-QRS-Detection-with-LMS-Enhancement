@@ -35,7 +35,7 @@ The adaptive method shows improved behavior in some noisy cases, while the origi
 
 This project was developed as part of a DSP course and focuses on understanding and analyzing the algorithm rather than optimization.
 
-##contributors
+## contributors
 - Raseel Jafar
 - Layal Hajji
 - Basmala Abu Hakema
